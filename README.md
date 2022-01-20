@@ -5,7 +5,7 @@
   * | | | | | || |_| || |_| || |_| || || |___/
     |_| |_| |_|\_____/\_____/\_____||_|\_____)
 
-Moodle - the world's open source learning platform
+Copy of Moodle - the world's open source learning platform
 
 Moodle <https://moodle.org> is a learning platform designed to provide
 educators, administrators and learners with a single robust, secure and
